@@ -1,3 +1,7 @@
+Find our paper for our entry in the VisioMel Challenge [here](https://github.com/El-One1/VisioMel-Challenge/blob/main/Visiomel_paper.pdf).
+
+You will find details on our pipeline as well as our results. Below is a description of said pipeline:
+
 # VisioMel-Challenge
 
 Project in a team of 4 aimed at predicting cancer relaspe from skin fragments. Dataset given through the Visiomel competition, based on real whole slice images. Code is private but our paper can be found on this repo. More details in the paper. In short:
